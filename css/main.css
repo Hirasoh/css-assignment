@@ -37,7 +37,7 @@
 }
 .music h2 {
     font-family:'Raleway', sans-serif;
-    font-size: 1rem;
+    font-size: 16px;
 }
 .info {
     margin:0 0 0 80px;
@@ -45,3 +45,40 @@
 .timer {
     margin:0 0 30px 80px;
 }
+.welcome h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    text-transform: uppercase;
+    font-size: 3rem;
+
+}
+.welcome h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+}
+.btn {
+    margin-top: 30px;
+
+}
+.btn button {
+    width: 300px;
+    padding :20px 0;
+    font-size: 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+    border-color: none;
+    background-color: #0EBAEE;
+    box-shadow:0 0 20px  #0EBAEE;
+   
+    border-radius: 5px;
+    border-s
+}
+
+
+
+
+
