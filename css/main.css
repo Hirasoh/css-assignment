@@ -1,0 +1,47 @@
+ body {
+    margin :0;
+    padding :0;
+}
+.mainclass {
+    display:flex;
+    
+}
+.subclass-1 {
+    background-color: #3C3F3F;
+    flex:1;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.subclass-2 {
+    flex :1;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+.tagline {
+    width:400px
+}
+.tagline h2 {
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 50px;
+    color: #0EBAEE;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.music {
+    margin: 30px 0 0 80px;
+}
+.music h2 {
+    font-family:'Raleway', sans-serif;
+    font-size: 1rem;
+}
+.info {
+    margin:0 0 0 80px;
+}
+.timer {
+    margin:0 0 30px 80px;
+}
