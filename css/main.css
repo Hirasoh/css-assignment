@@ -73,12 +73,17 @@
     border-color: none;
     background-color: #0EBAEE;
     box-shadow:0 0 20px  #0EBAEE;
-   
     border-radius: 5px;
-    border-s
+    transition: all 0.5s;
 }
 
 
+.btn button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 40px #003399;
+    background-color: #000fff;
+    color:#e6eeff;
 
 
+}
 
