@@ -38,13 +38,36 @@
 .music h2 {
     font-family:'Raleway', sans-serif;
     font-size: 16px;
+    font-weight: 500;
 }
 .info {
     margin:0 0 0 80px;
-}
+    background-image: url('../pics/aks.jpg');
+    background-size:600px 500px;
+    background-repeat: no-repeat;
+}    
 .timer {
     margin:0 0 30px 80px;
+    display: flex;
+    
+    
+   
 }
+
+.timer h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.im  img {
+    margin-left: 500px;
+    width: 50px;
+    
+    
+}
+
+
+
 .welcome h2{
     font-family: 'Raleway', sans-serif;
     font-weight: 200;
